@@ -1,12 +1,12 @@
-# 📘 MADES – Project Documentation
+# MADES – Project Documentation
 
 This repository contains all project management and documentation artifacts for **MADES – Sales & Inventory PWA**.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
-### 🚀 Start-up
+### Start-up
 
 Contains all documentation created before the project execution phase:
 
@@ -18,7 +18,7 @@ Contains all documentation created before the project execution phase:
 
 ---
 
-### 📅 Planning
+### Planning
 
 Includes all planning phase artifacts:
 
@@ -28,7 +28,7 @@ Includes all planning phase artifacts:
 
 ---
 
-### ⚙️ Execution
+### Execution
 
 Contains documentation generated during project execution, organized by sprint:
 
@@ -38,13 +38,13 @@ Contains documentation generated during project execution, organized by sprint:
 
 ---
 
-### 🏁 Close-down
+### Close-down
 
 Includes all project closure documentation
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This repository ensures proper documentation, traceability, and organization of all project phases.
 
